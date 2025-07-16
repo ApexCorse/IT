@@ -1,0 +1,10 @@
+
+/.idea
+Bot/token.txt
+/venv
+.env
+*.pyc
+*.xml
+*.iml
+*.sqlite
+Bot/Modules/Source/Suona/output.mp3
