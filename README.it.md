@@ -12,37 +12,37 @@
 
 ---
 
-## About Us
+## Chi Siamo?
 
-Apex Corse is the racing team of the University of Palermo, born in 2023 with the goal of designing and manufacturing racing cars to compete in the international Formula SAE (Society of Automotive Engineers) championship against the best universities from all over the world.
-
----
-
-## THE COMPETITION
-
-Formula SAE, founded in 1981 by the Society of Automotive Engineers, is an international competition that involves universities and their students in creating teams aimed at designing small single-seater cars and evaluating them 360 degrees through on-track and off-track challenges.
+Apex Corse è la scuderia dell’Università di Palermo che nasce nel 2023 con lo scopo di progettare e produrre auto da corsa destinate a competere nel campionato internazionale della Formula SAE (Society of Automotive Engineers) contro le migliori università di tutto il mondo.
 
 ---
 
-## IT TEAM
+## LA COMPETIZIONE
 
-The IT team is responsible for the design, implementation, and maintenance of the team's IT infrastructure. Main activities include internal network management, NAS system administration for centralized data storage, software license management, and the development of customized digital tools. In addition, the team oversees the integration of automated solutions, such as Telegram bots, and contributes to the development of software for data acquisition and analysis, operationally supporting all other departments.
-
----
-
-## Our Projects
-
-- [Vehicle Steering Wheel](https://github.com/ApexCorse/steering-wheel)  
-- [DataLogger for Vehicle Telemetry](https://github.com/ApexCorse/ephoros)  
-- [VERA - C code generator for CAN DBC files](https://github.com/ApexCorse/vera)  
-- [KING - Multi-purpose Bot for Apex Corse](https://github.com/ApexCorse/king)  
-- [Apex Corse's website](https://github.com/ApexCorse/website)
+La Formula SAE, fondata nel 1981 dalla Society of Automotive Engineers, è una competizione internazionale che coinvolge le università e i loro studenti nella creazione di squadre finalizzate alla progettazione di piccole monoposto e la loro valutazione a 360 gradi tramite sfide in pista e non.
 
 ---
 
-## Team Members
+## TEAM IT
 
-### 🚀 Active Members
+Il team IT è responsabile della progettazione, implementazione e manutenzione dell’infrastruttura informatica del team. Tra le principali attività rientrano la gestione della rete interna, l'amministrazione del sistema NAS per l’archiviazione centralizzata dei dati, la gestione delle licenze software e lo sviluppo di strumenti digitali personalizzati. Inoltre, il team cura l’integrazione di soluzioni automatizzate, come bot Telegram, e contribuisce allo sviluppo di software per l’acquisizione e l’analisi dei dati, supportando operativamente tutti gli altri reparti.
+
+---
+
+## I nostri progetti
+
+- [Volante del veicolo](https://github.com/ApexCorse/steering-wheel)  
+- [DataLogger per la telemetria del veicolo](https://github.com/ApexCorse/ephoros)  
+- [VERA - Generatore di codice C per file CAN DBC](https://github.com/ApexCorse/vera)  
+- [KING - Bot multi-funzione per Apex Corse](https://github.com/ApexCorse/king)  
+- [Sito web ufficiale di Apex Corse](https://github.com/ApexCorse/website)
+
+---
+
+## Membri del Team
+
+### 🚀 Membri Attivi
 
 - <img src="./Resources/Members/gabriele-amorello.png" width="45" style="border-radius: 8px;" align="center" /> **Gabriele Amorello** - *Division Manager*  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-salvatore-amorello-808954180/)
